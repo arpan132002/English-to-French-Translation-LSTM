@@ -10,3 +10,5 @@ The main components of this project include:
 - **Model Architecture**: Building and training an LSTM-based sequence-to-sequence (Seq2Seq) model for translation.
 - **Evaluation**: Measuring the performance of the model using BLEU scores and other relevant metrics.
 - **Inference**: Translating new English sentences into French using the trained model.
+
+Achieved LSTM model Validation accuracy of 89.85%
